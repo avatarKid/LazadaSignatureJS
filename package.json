@@ -1,0 +1,22 @@
+{
+  "name": "lazadasignaturejs",
+  "version": "1.0.0",
+  "description": "Lazada Signature generater using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avatarKid/LazadaSignatureJS.git"
+  },
+  "author": "anhdt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avatarKid/LazadaSignatureJS/issues"
+  },
+  "homepage": "https://github.com/avatarKid/LazadaSignatureJS#readme",
+  "dependencies": {
+    "js-sha256": "^0.6.0"
+  }
+}
